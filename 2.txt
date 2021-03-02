@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 2
+=======
+the final fantasy in the
+4.txt file
+>>>>>>> 864c95da1d727845f96cf1ba0697153a7414cec0
